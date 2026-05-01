@@ -1,27 +1,17 @@
 <div align="center">
 
-<br />
-
 # H.E.R.A.L.D
 
 <sub><b>HUMAN&nbsp;·&nbsp;EXECUTIVE&nbsp;·&nbsp;REASONING&nbsp;·&nbsp;AGENT&nbsp;·&nbsp;LOCALLY&nbsp;·&nbsp;DEPLOYED</b></sub>
-
-<br /><br />
 
 ![macOS](https://img.shields.io/badge/macOS-13%2B-000?style=for-the-badge&logo=apple&logoColor=white)
 ![Apple Silicon](https://img.shields.io/badge/APPLE_SILICON-M1%2B-555?style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-22c55e?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/POWERED_BY-CLAUDE_SONNET_4-cc785c?style=for-the-badge)
 
-<br />
-
 <video src="https://github.com/user-attachments/assets/d59a75c6-cc60-43e4-9dee-81413db85ace" width="720" controls></video>
 
-<br /><br />
-
 <h2><i>"The AI assistant from the movies. Running on your Mac."</i></h2>
-
-<br />
 
 </div>
 
@@ -29,19 +19,11 @@
 > A floating orb on your desktop. You speak. It answers.
 > No wake word. No hotkey. No window to click.
 
-<br />
-
----
-
 <div align="center">
 
 ## ▍&nbsp;&nbsp;IT DOESN'T JUST TALK. IT DRAWS.
 
-<br />
-
 <video src="https://github.com/user-attachments/assets/c10a107d-81c9-47a8-aafc-7389ce9dbcb3" width="720" controls></video>
-
-<br /><br />
 
 <table>
 <tr>
@@ -60,38 +42,18 @@
 </tr>
 </table>
 
-<br />
-
-</div>
-
----
-
-<div align="center">
-
-<br />
-
 ## ━━━━━&nbsp;&nbsp;DEPLOYMENT&nbsp;&nbsp;━━━━━
 
-<br />
-
 [![Download Latest Release](https://img.shields.io/badge/▼_DOWNLOAD_LATEST_RELEASE_▼-22c55e?style=for-the-badge&labelColor=000)](../../releases/latest)
-
-<br />
 
 `macOS 13+` &nbsp; · &nbsp; `Apple Silicon` &nbsp; · &nbsp; `Free`
 
 <sub>Bring your own OpenAI key & Claude Code.</sub>
 
-<br /><br />
-
 </div>
-
----
 
 <details>
 <summary><b>FIRST LAUNCH</b> — bypass Apple's "unverified developer" warning</summary>
-
-<br />
 
 Herald isn't signed with an Apple Developer ID yet. On first launch macOS will block it.
 
@@ -111,8 +73,6 @@ xattr -dr com.apple.quarantine /Applications/Herald.app
 
 <details>
 <summary><b>SETUP</b> — required permissions and keys</summary>
-
-<br />
 
 - **Microphone access** — for voice detection
 - **OpenAI API key** — for speech-to-text (`gpt-4o-transcribe`)
