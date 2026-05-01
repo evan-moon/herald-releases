@@ -1,105 +1,123 @@
 <div align="center">
 
-  <br />
+<br />
 
-  # H.E.R.A.L.D
+# H.E.R.A.L.D
 
-  <sub><b>HUMAN&nbsp;·&nbsp;EXECUTIVE&nbsp;·&nbsp;REASONING&nbsp;·&nbsp;AGENT&nbsp;·&nbsp;LOCALLY&nbsp;·&nbsp;DEPLOYED</b></sub>
+<sub><b>HUMAN&nbsp;·&nbsp;EXECUTIVE&nbsp;·&nbsp;REASONING&nbsp;·&nbsp;AGENT&nbsp;·&nbsp;LOCALLY&nbsp;·&nbsp;DEPLOYED</b></sub>
 
-  <br /><br />
+<br /><br />
 
-  ![macOS](https://img.shields.io/badge/macOS-13%2B-000?style=for-the-badge&logo=apple&logoColor=white)
-  ![Apple Silicon](https://img.shields.io/badge/APPLE_SILICON-M1%2B-555?style=for-the-badge)
-  ![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-22c55e?style=for-the-badge)
-  ![Claude](https://img.shields.io/badge/POWERED_BY-CLAUDE_SONNET_4-cc785c?style=for-the-badge)
+![macOS](https://img.shields.io/badge/macOS-13%2B-000?style=for-the-badge&logo=apple&logoColor=white)
+![Apple Silicon](https://img.shields.io/badge/APPLE_SILICON-M1%2B-555?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-22c55e?style=for-the-badge)
+![Claude](https://img.shields.io/badge/POWERED_BY-CLAUDE_SONNET_4-cc785c?style=for-the-badge)
 
-  <br />
+<br />
 
-  </div>
+<video src="https://github.com/user-attachments/assets/d59a75c6-cc60-43e4-9dee-81413db85ace" width="720" controls></video>
 
-  https://github.com/user-attachments/assets/d59a75c6-cc60-43e4-9dee-81413db85ace
+<br /><br />
 
-  <div align="center">
-  <br />
-  <h3><i>“The AI assistant from the movies. Running on your Mac.”</i></h3>
-  <br />
-  </div>
+<h2><i>"The AI assistant from the movies. Running on your Mac."</i></h2>
 
-  > Always listening. Never in the way.
-  > A floating orb. You speak. It answers.
-  > No wake word. No hotkey. No window to click.
+<br />
 
-  <br />
+</div>
 
-  ---
+> **Always listening.** Never in the way.
+> A floating orb on your desktop. You speak. It answers.
+> No wake word. No hotkey. No window to click.
 
-  <div align="center">
+<br />
 
-  ## ▍ IT DOESN'T JUST TALK. IT DRAWS.
+---
 
-  </div>
+<div align="center">
 
-  <br />
+## ▍&nbsp;&nbsp;IT DOESN'T JUST TALK. IT DRAWS.
 
-  https://github.com/user-attachments/assets/c10a107d-81c9-47a8-aafc-7389ce9dbcb3
+<br />
 
-  <br />
+<video src="https://github.com/user-attachments/assets/c10a107d-81c9-47a8-aafc-7389ce9dbcb3" width="720" controls></video>
 
-  <table align="center">
-  <tr>
-  <td align="center" width="220">
-  <b>“SHOW ME MY PORTFOLIO”</b>
-  <br/><sub>It renders the chart.</sub>
-  </td>
-  <td align="center" width="220">
-  <b>“WHAT'S MY DAY LIKE?”</b>
-  <br/><sub>It pulls your calendar.</sub>
-  </td>
-  <td align="center" width="220">
-  <b>“FIX THIS BUG”</b>
-  <br/><sub>It writes the code.</sub>
-  </td>
-  </tr>
-  </table>
+<br /><br />
 
-  <br />
+<table>
+<tr>
+<td align="center" width="240">
+<b>"SHOW ME MY PORTFOLIO"</b>
+<br/><sub>It renders the chart.</sub>
+</td>
+<td align="center" width="240">
+<b>"WHAT'S MY DAY LIKE?"</b>
+<br/><sub>It pulls your calendar.</sub>
+</td>
+<td align="center" width="240">
+<b>"FIX THIS BUG"</b>
+<br/><sub>It writes the code.</sub>
+</td>
+</tr>
+</table>
 
-  ---
+<br />
 
-  <div align="center">
+</div>
 
-  ## ━━━━━  DEPLOYMENT  ━━━━━
+---
 
-  ### [▼ LATEST RELEASE ▼](../../releases/latest)
+<div align="center">
 
-  `macOS 13+` &nbsp; · &nbsp; `Apple Silicon` &nbsp; · &nbsp; `Free`
+<br />
 
-  <sub>Bring your own OpenAI key & Claude Code.</sub>
+## ━━━━━&nbsp;&nbsp;DEPLOYMENT&nbsp;&nbsp;━━━━━
 
-  <br />
+<br />
 
-  </div>
+[![Download Latest Release](https://img.shields.io/badge/▼_DOWNLOAD_LATEST_RELEASE_▼-22c55e?style=for-the-badge&labelColor=000)](../../releases/latest)
 
-  ---
+<br />
 
-  <details>
-  <summary><b>FIRST LAUNCH</b> — bypass Apple's "unverified developer" warning</summary>
+`macOS 13+` &nbsp; · &nbsp; `Apple Silicon` &nbsp; · &nbsp; `Free`
 
-  <br />
+<sub>Bring your own OpenAI key & Claude Code.</sub>
 
-  Herald isn't signed with an Apple Developer ID yet. On first launch macOS will block it.
+<br /><br />
 
-  **Option 1 — System Settings**
-  1. Try to open Herald (it will be blocked)
-  2. Open `System Settings` → `Privacy & Security`
-  3. Scroll down, find Herald, click `Open Anyway`
+</div>
 
-  **Option 2 — Terminal**
-  ```bash
-  xattr -dr com.apple.quarantine /Applications/Herald.app
+---
 
-  - Microphone access — for voice detection
-  - OpenAI API key — for speech-to-text (gpt-4o-transcribe)
-  - Claude Code — for agent reasoning
+<details>
+<summary><b>FIRST LAUNCH</b> — bypass Apple's "unverified developer" warning</summary>
 
-  Configure all three in Herald's settings panel on first launch.
+<br />
+
+Herald isn't signed with an Apple Developer ID yet. On first launch macOS will block it.
+
+**Option 1 — System Settings**
+
+1. Try to open Herald (it will be blocked)
+2. Open `System Settings` → `Privacy & Security`
+3. Scroll down, find Herald, click `Open Anyway`
+
+**Option 2 — Terminal**
+
+```bash
+xattr -dr com.apple.quarantine /Applications/Herald.app
+```
+
+</details>
+
+<details>
+<summary><b>SETUP</b> — required permissions and keys</summary>
+
+<br />
+
+- **Microphone access** — for voice detection
+- **OpenAI API key** — for speech-to-text (`gpt-4o-transcribe`)
+- **Claude Code** — for agent reasoning
+
+Configure all three in Herald's settings panel on first launch.
+
+</details>
