@@ -1,40 +1,91 @@
-<h1 align="center">H.E.R.A.L.D</h1>
-  <p align="center"><sub><b>HUMAN&nbsp;·&nbsp;EXECUTIVE&nbsp;·&nbsp;REASONING&nbsp;·&nbsp;AGENT&nbsp;·&nbsp;LOCALLY&nbsp;·&nbsp;DEPLOYED</b></sub
-  ></p>
+<div align="center">
+
+  <br />
+
+  # H.E.R.A.L.D
+
+  <sub><b>HUMAN&nbsp;·&nbsp;EXECUTIVE&nbsp;·&nbsp;REASONING&nbsp;·&nbsp;AGENT&nbsp;·&nbsp;LOCALLY&nbsp;·&nbsp;DEPLOYED</b></sub>
+
+  <br /><br />
+
+  ![macOS](https://img.shields.io/badge/macOS-13%2B-000?style=for-the-badge&logo=apple&logoColor=white)
+  ![Apple Silicon](https://img.shields.io/badge/APPLE_SILICON-M1%2B-555?style=for-the-badge)
+  ![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-22c55e?style=for-the-badge)
+  ![Claude](https://img.shields.io/badge/POWERED_BY-CLAUDE_SONNET_4-cc785c?style=for-the-badge)
+
+  <br />
+
+  </div>
 
   https://github.com/user-attachments/assets/d59a75c6-cc60-43e4-9dee-81413db85ace
 
-  > The AI assistant from the movies. Running on your Mac.
+  <div align="center">
+  <br />
+  <h3><i>“The AI assistant from the movies. Running on your Mac.”</i></h3>
+  <br />
+  </div>
 
-  Always listening. Never in the way.
-  A floating orb. You speak. It answers.
+  > Always listening. Never in the way.
+  > A floating orb. You speak. It answers.
+  > No wake word. No hotkey. No window to click.
 
-  No wake word. No hotkey. No window to click.
+  <br />
 
   ---
 
-  ### It doesn't just talk. It draws.
+  <div align="center">
+
+  ## ▍ IT DOESN'T JUST TALK. IT DRAWS.
+
+  </div>
+
+  <br />
 
   https://github.com/user-attachments/assets/c10a107d-81c9-47a8-aafc-7389ce9dbcb3
 
-  Ask about your portfolio — it renders the chart.
-  Ask about today — it pulls your calendar.
-  Ask it to fix a bug — it writes the code.
+  <br />
+
+  <table align="center">
+  <tr>
+  <td align="center" width="220">
+  <b>“SHOW ME MY PORTFOLIO”</b>
+  <br/><sub>It renders the chart.</sub>
+  </td>
+  <td align="center" width="220">
+  <b>“WHAT'S MY DAY LIKE?”</b>
+  <br/><sub>It pulls your calendar.</sub>
+  </td>
+  <td align="center" width="220">
+  <b>“FIX THIS BUG”</b>
+  <br/><sub>It writes the code.</sub>
+  </td>
+  </tr>
+  </table>
+
+  <br />
 
   ---
 
-  ## ⬇ Download
+  <div align="center">
 
-  **[Latest Release](../../releases/latest)**
+  ## ━━━━━  DEPLOYMENT  ━━━━━
 
-  `macOS 13+` · `Apple Silicon`
+  ### [▼ LATEST RELEASE ▼](../../releases/latest)
 
-  Free. Bring your own OpenAI key & Claude Code.
+  `macOS 13+` &nbsp; · &nbsp; `Apple Silicon` &nbsp; · &nbsp; `Free`
+
+  <sub>Bring your own OpenAI key & Claude Code.</sub>
+
+  <br />
+
+  </div>
 
   ---
 
   <details>
-  <summary><b>First Launch</b> — bypass Apple's "unverified developer" warning</summary>
+  <summary><b>FIRST LAUNCH</b> — bypass Apple's "unverified developer" warning</summary>
+
+  <br />
 
   Herald isn't signed with an Apple Developer ID yet. On first launch macOS will block it.
 
@@ -52,5 +103,3 @@
   - Claude Code — for agent reasoning
 
   Configure all three in Herald's settings panel on first launch.
-
-  이대로 herald-releases README.md에 통째로 붙여넣으면 돼. 영상 두 개 다 자동으로 임베드 플레이어로 렌더링됨.
